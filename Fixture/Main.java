@@ -31,7 +31,7 @@ public class Main {
             Integer Rindex2 = choose.nextInt(TeamsList.size());
             String FirstT = TeamsList.get(Rindex);
             String SecondT = TeamsList.get(Rindex2);
-            if((!FirstT.equals(SecondT)) && (!Fixture.contains(FirstT + " vs " + SecondT)) && (!Fixture.contains(SecondT + " vs " + FirstT))){
+            if((!FirstT.equals(SecondT)) && (!Part1.contains(FirstT + " vs " + SecondT)) && (!Part1.contains(SecondT + " vs " + FirstT))){
                 count = 0;
                 Fixture.add(FirstT + " vs " + SecondT);
                 Fixture2.add(SecondT + " vs " + FirstT);
