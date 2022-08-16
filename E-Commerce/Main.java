@@ -1,13 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package patika.store;
-
-/**
- *
- * @author hasan
- */
 import java.util.*;
 public class Main {
     public static void main(String args[]){
@@ -242,4 +232,4 @@ public class Main {
 }
       
 /*I'm junior a software developer. I was able to do this with my current knowledge. I will try to do better by improving myself every day.
-Ihsan T.  11/08/2022 I started  16/08/2022 I finished... to be continued*/  
+Ihsan T.  11/08/2022 I started  16/08/2022 I finished... to be continued. I used NetBeans IDE*/  
