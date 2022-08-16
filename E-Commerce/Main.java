@@ -242,4 +242,4 @@ public class Main {
 }
       
 /*I'm junior a software developer. I was able to do this with my current knowledge. I will try to do better by improving myself every day.
-Ihsan T.  11/08/2022 I sterted  16/08/2022 I finished... to be continued*/  
+Ihsan T.  11/08/2022 I started  16/08/2022 I finished... to be continued*/  
